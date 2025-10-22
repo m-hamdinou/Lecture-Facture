@@ -1,0 +1,4 @@
+tesseract-ocr
+tesseract-ocr-fra
+Add packages.txt to install Tesseract OCR on Streamlit Cloud
+
